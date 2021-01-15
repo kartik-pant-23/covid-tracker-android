@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="state_wise">https://api.covid19india.org/data.json</string>
+    <string name="district_wise">https://api.covid19india.org/state_district_wise.json</string>
+</resources>
